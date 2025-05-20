@@ -150,16 +150,3 @@ Access Orthanc Explorer at: [http://localhost:8042](http://localhost:8042)
 * 🏥 Enhanced radiology workflow integration (PACS/RIS/HIS)
 
 ---
-
-## 📘 Citation
-
-If you use or reference this platform, please cite:
-
-> "AI-Powered Medical Imaging: DICOM Segmentation & Volumetric Analysis for Clinical Decision Support." Saskatchewan Polytechnic Capstone Project, 2025.
-
----
----
-
-## 📜 License
-
-This project is licensed under the MIT License.

@@ -158,12 +158,6 @@ If you use or reference this platform, please cite:
 > "AI-Powered Medical Imaging: DICOM Segmentation & Volumetric Analysis for Clinical Decision Support." Saskatchewan Polytechnic Capstone Project, 2025.
 
 ---
-
-## 👨‍⚕️ Author
-
-* **Kush Gadhvi**
-  *Saskatchewan Polytechnic | AI & Data Analytics*
-
 ---
 
 ## 📜 License
